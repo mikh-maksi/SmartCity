@@ -1,0 +1,85 @@
+.i_header{
+    border-bottom: 1px solid #21650a;
+    background: url(../images/logo_print.png) no-repeat;
+
+}
+.nav_bar,
+#datepicker-popup,
+.primary_row,
+.headline,
+.related_news,
+.shareBox_wrap,
+.print,
+.icons a,
+.tags,
+.dowload-app{display: none;}
+.content_row {
+    width: 100%;
+    padding: 0;
+}
+.static,
+.doc_group,
+.no_doc_group,
+.news_full,
+.use_l_page,
+.doc_sessions,
+.doc_full,
+.search_page,
+.gallery_full,
+.announce,
+.announce_full,
+.deputy,
+.committee_full,
+.fraction_full,
+.person,
+.video_full,
+.city_full,
+.audio_full,
+.pull_full,
+.deputy_item,
+.c_header{
+    width: 100%;
+    padding: 25px 0 0;
+}
+.print-logo{
+    display: block;
+    margin: 0 auto 15px;
+    width: 284px;
+    height: 73px;
+}
+/*.base{display: none;}*/
+
+
+#header{
+    display: none;
+}
+.banner{
+    display: none;
+}
+.breadcrumb{
+    display: none;
+}
+.last_news {
+    display: none;
+}
+.report{
+    display: none;
+}
+.type_page{
+    display: none;
+}
+.shareBox_wrap{
+    display: none;
+}
+.footer_holder{
+    display: none;
+}
+.block_post{
+    padding-top: 50px;
+}
+.tegs{
+    display: none;
+}
+.heading_name{
+    margin-top: 70px;
+}
